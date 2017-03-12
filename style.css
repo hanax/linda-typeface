@@ -1,0 +1,7 @@
+img {
+  width: auto;
+  height: 100vh;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
